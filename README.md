@@ -6,7 +6,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Back-End Developer passionate about solving problems through technology. I like to balance my career between technical skills and the desire to learn, I am grateful for the hours of studies and personal projects.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Nyelab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=Weekly" alt="GitHub Streak"/>
+
  </div>
  
  &nbsp;
